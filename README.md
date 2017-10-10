@@ -2,7 +2,7 @@
 
 This work is submitted as a project in "EEL5840: Elements of Machine Intelligence" class at University of Florida.
 
-Title: Echo cancellation in telephone line using machine learning 
+Echo cancellation in telephone line using machine learning: 
 
 Description:
 The data provided for this project represents two voice channels of a long-distance telephone
