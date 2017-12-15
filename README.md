@@ -21,8 +21,6 @@ that complicates the operation, i.e. linear echo cancellation is NOT optimal.
 
 -> May have to install some of the modules required for project
 
-The datasets used in the project are uploaded to the repository in .txt format. They are provided by the Professor and cannot be used for anyother purpose without giving credits
-
-
+The datasets used in the project are provided by the faculty. 
 
 Thanks to Prof. Principe P. Jose and Prof. Alina Zare for their valuable teaching and support.
